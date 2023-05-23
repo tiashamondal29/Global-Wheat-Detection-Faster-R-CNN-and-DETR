@@ -4,6 +4,9 @@
 <h1>Overview/Summary</h1>
 Wheat products are widely consumed and extensively studied, making wheat fields an important area of research. This project focuses on evaluating the performance of two popular object detection models, Faster R-CNN and DETR, on the Global Wheat Detection dataset. The dataset consists of images of wheat fields, and the objective is to detect individual wheat heads in these images. By comparing the performance of the models using various evaluation metrics, we aim to determine which model is better suited for this task.
 
+
+![Detection of Wheatheads](https://storage.googleapis.com/kaggle-media/competitions/UofS-Wheat/descriptionimage.png)
+
 <h1>Aim</h1>
 The aim of this project is to evaluate the performance of Faster R-CNN and DETR models on the [Global Wheat Detection dataset](https://www.kaggle.com/competitions/global-wheat-detection/overview) and compare their results using relevant metrics. The report provides a comprehensive analysis of the models' accuracy, precision, recall, and mean average precision (mAP) on the dataset. This analysis helps in identifying the model that performs better in detecting wheat heads in the images. The [report](Comparision_between_Faster-RCNN_and_DETR.ipynb) also highlights the strengths and weaknesses of each model and offers recommendations for future research in this area.
 
